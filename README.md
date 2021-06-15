@@ -1,4 +1,4 @@
-![MasterHead](https://blog.alexa.com/wp-content/uploads/2014/11/Data-Science_FB.jpeg)
+![MasterHead](HEADER.jpg)
 
 <h1 align="center">Hi 👋, I'm Twinkle Rawat</h1>
 <h3 align="center">Information is the oil of the 21st century, and analytics is the combustion engine.</h3>
